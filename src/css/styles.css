@@ -23,6 +23,7 @@
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
 }
+
 .gallery {
   padding-left: 15px;
   padding-right: 15px;
@@ -77,6 +78,7 @@
     display: block;
     padding: 8px 16px;
     margin: 20px auto;
+    border: none;
     border-radius: 8px;
     background: #f10592;
     color: #fff;
